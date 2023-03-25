@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/AlexanderO0">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexanderO0&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderO0&theme=synthwave&hide_border=false&&layout=compact"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AlexanderO0&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave&hide_border=false&show_owner=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderO0&theme=synthwave&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
