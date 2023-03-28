@@ -39,7 +39,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/AlexanderO0/AlexanderO0/blob/main/.github/workflows/cobra.yml)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
